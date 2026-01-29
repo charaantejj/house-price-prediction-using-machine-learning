@@ -1,0 +1,7 @@
+{
+  "name": "Livest - AI Property Valuation",
+  "description": "Premium 2026-style house price prediction platform for South Indian real estate markets.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
